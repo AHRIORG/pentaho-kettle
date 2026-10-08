@@ -1,0 +1,15 @@
+a3c845e6548fa42c04fa0012c8443de8bad3dbb3d0b257e6a68d80f773c083db  jars/actionsequence-dom-10.1.0.0-SNAPSHOT.jar
+22f1f9d94b6970840fe7d4b25c33300b5dcfec0b5c673fa823a8e32907cbcefd  jars/commons-database-model-10.1.0.0-SNAPSHOT.jar
+e3e0023987bf4465aab9ce4ddae26c281a62adcad758563d81a95d5e1085cb60  jars/commons-xul-core-10.1.0.0-SNAPSHOT.jar
+bc7cc0182d1136a83dcf83125f0518741bc2d81e62276affac94c7f036bd5061  jars/kettle-core-10.1.0.0-SNAPSHOT.jar
+a848f224b3e946f729938a9e33e82fdd02a2a0d7fa9c0a61e47667509dcd4fc1  jars/kettle-engine-10.1.0.0-SNAPSHOT.jar
+e468741221db304dd6d217dca1a20a9c7163a5c7dadbe000c5146583e98c3c72  jars/libbase-10.1.0.0-SNAPSHOT.jar
+4835bf5481ae14ee9d8526a00c4582967870d0269b5000daeca91f28d0157709  jars/libformula-10.1.0.0-SNAPSHOT.jar
+cfc378e10bcd6a8ea38ea1eec3139b8f71530435d30ceea8770646e8317fc33b  jars/metastore-10.1.0.0-SNAPSHOT.jar
+c25f8bca62966eb119646ec257a466fabbc9e1769fb82c7d7e3b8041a0e085c3  jars/mondrian-10.1.0.0-SNAPSHOT.jar
+05290e219b4e29f96f8da9b0b4498207b49e78f558fcda3b21f8017d58d0edba  jars/pdi-engine-api-10.1.0.0-SNAPSHOT.jar
+c8f7c74fce5eda5c9e3d03f8b9d176421ac5a91a77a2597550bd8d3dd7cd144d  jars/pentaho-connections-10.1.0.0-SNAPSHOT.jar
+e53b501e7fa18673dfdaf4e06cead86a399b8aa4e0e5ae0c1bbcf658762b188a  jars/pentaho-metastore-locator-api-10.1.0.0-SNAPSHOT.jar
+30d4b3e753327cc5a99749434bd3e0f06fefdf7aa61e45c2d4cea117661cdf9d  jars/pentaho-platform-api-10.1.0.0-SNAPSHOT.jar
+dfac539b605b70c650fb103e68a538e248fb78dd1fe997fe66ff24aedc7e40ba  jars/pentaho-registry-10.1.0.0-SNAPSHOT.jar
+5ec4ad6d12f547f67d328a020ce93977d9896dbba63d9fc99a0f1158e23faa8e  jars/simple-jndi-1.0.13.jar

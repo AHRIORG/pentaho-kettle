@@ -1,0 +1,834 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Oct 07, 2026 9:28:51 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7f485fda [releaseThread=null]]
+Oct 07, 2026 9:28:51 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@21be3395 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 30 is WAITING)]]
+Oct 07, 2026 9:28:51 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@376a0d86 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@38234a38 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@545b995e [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 32 is WAITING)]]
+Oct 07, 2026 11:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@50d13246 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@34158c08 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3fc9504b [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 34 is WAITING)]]
+Oct 07, 2026 11:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@b7c4869 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1c481ff2 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3a4621bd [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 36 is WAITING)]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@56aaaecd [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@35390ee3 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@dfddc9a [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 38 is WAITING)]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@aafcffa [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@736d6a5c [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2374d36a [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 40 is WAITING)]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@424fd310 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@38f116f6 [releaseThread=null]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4a11eb84 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 42 is WAITING)]]
+Oct 07, 2026 9:28:52 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2a7686a7 [releaseThread=null]]
+Oct 07, 2026 9:28:53 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@191ae03f [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 244 is WAITING)]]
+Oct 07, 2026 9:28:53 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@51df223b [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 246 is WAITING)]]
+Oct 07, 2026 9:28:53 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@62679465 [releaseThread=null]]
+Oct 07, 2026 9:28:54 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@79d06bbd [releaseThread=null]]
+Oct 07, 2026 9:28:54 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5ff2b8ca [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 248 is WAITING)]]
+FUNC: A<B; A: null; B: 1; Expected: true; Result: true
+FUNC: A<B; A: 0; B: 1; Expected: true; Result: true
+FUNC: A<B; A: 1; B: null; Expected: false; Result: false
+FUNC: A<B; A: 1; B: 0; Expected: false; Result: false
+FUNC: A<B; A: null; B: 0; Expected: true; Result: true
+FUNC: A<B; A: 0; B: null; Expected: false; Result: false
+FUNC: A<B; A: null; B: -1; Expected: true; Result: true
+FUNC: A<B; A: 0; B: -1; Expected: false; Result: false
+FUNC: A<B; A: -1; B: null; Expected: false; Result: false
+FUNC: A<B; A: -1; B: 0; Expected: true; Result: true
+FUNC: A<=B; A: null; B: 1; Expected: true; Result: true
+FUNC: A<=B; A: 0; B: 1; Expected: true; Result: true
+FUNC: A<=B; A: 1; B: null; Expected: false; Result: false
+FUNC: A<=B; A: 1; B: 0; Expected: false; Result: false
+FUNC: A<=B; A: null; B: 0; Expected: true; Result: true
+FUNC: A<=B; A: 0; B: null; Expected: false; Result: false
+FUNC: A<=B; A: null; B: -1; Expected: true; Result: true
+FUNC: A<=B; A: 0; B: -1; Expected: false; Result: false
+FUNC: A<=B; A: -1; B: null; Expected: false; Result: false
+FUNC: A<=B; A: -1; B: 0; Expected: true; Result: true
+FUNC: B>A; A: null; B: 1; Expected: true; Result: true
+FUNC: B>A; A: 0; B: 1; Expected: true; Result: true
+FUNC: B>A; A: 1; B: null; Expected: false; Result: false
+FUNC: B>A; A: 1; B: 0; Expected: false; Result: false
+FUNC: B>A; A: null; B: 0; Expected: true; Result: true
+FUNC: B>A; A: 0; B: null; Expected: false; Result: false
+FUNC: B>A; A: null; B: -1; Expected: true; Result: true
+FUNC: B>A; A: 0; B: -1; Expected: false; Result: false
+FUNC: B>A; A: -1; B: null; Expected: false; Result: false
+FUNC: B>A; A: -1; B: 0; Expected: true; Result: true
+FUNC: B>=A; A: null; B: 1; Expected: true; Result: true
+FUNC: B>=A; A: 0; B: 1; Expected: true; Result: true
+FUNC: B>=A; A: 1; B: null; Expected: false; Result: false
+FUNC: B>=A; A: 1; B: 0; Expected: false; Result: false
+FUNC: B>=A; A: null; B: 0; Expected: true; Result: true
+FUNC: B>=A; A: 0; B: null; Expected: false; Result: false
+FUNC: B>=A; A: null; B: -1; Expected: true; Result: true
+FUNC: B>=A; A: 0; B: -1; Expected: false; Result: false
+FUNC: B>=A; A: -1; B: null; Expected: false; Result: false
+FUNC: B>=A; A: -1; B: 0; Expected: true; Result: true
+Oct 07, 2026 9:28:54 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7fcf294e [releaseThread=null]]
+Oct 07, 2026 9:28:54 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@65f2f9b0 [releaseThread=null]]
+Oct 07, 2026 9:28:54 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3e1a3801 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 250 is WAITING)]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6caf7803 [releaseThread=null]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7d44a19 [releaseThread=null]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@56dfab87 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 253 is WAITING)]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@73844119 [releaseThread=null]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1290ed28 [releaseThread=null]]
+Oct 07, 2026 9:29:00 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@39c85c1a [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 255 is WAITING)]]
+Oct 07, 2026 9:29:01 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1071ae7c [releaseThread=null]]
+Oct 07, 2026 9:29:02 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@37e64e37 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 258 is WAITING)]]
+Oct 07, 2026 9:29:02 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1c0a143 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 260 is WAITING)]]
+Oct 07, 2026 9:29:04 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5418a659 [releaseThread=null]]
+Oct 07, 2026 9:29:04 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@45775a15 [releaseThread=null]]
+Oct 07, 2026 9:29:04 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6f6998b6 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 342 is WAITING)]]
+Oct 07, 2026 9:29:06 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5b8ba1d2 [releaseThread=null]]
+Oct 07, 2026 9:29:06 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@57dd4bc9 [releaseThread=null]]
+Oct 07, 2026 9:29:06 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@70c3c5d7 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 363 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5d8de155 [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1313dea8 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 364 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5b12157b [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 366 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@47d0127f [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6434827e [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@48515dfc [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 368 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4476ac12 [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6a225642 [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@74239871 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 370 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7ca29492 [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5039de18 [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@188f626a [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 372 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@519f6adb [releaseThread=null]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2680474c [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 374 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@73605fde [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 376 is WAITING)]]
+Oct 07, 2026 9:29:07 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@52b2f795 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@346e62d7 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 377 is WAITING)]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@333ea5d6 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 379 is WAITING)]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@79860b25 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7ec49d9b [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@145bcb73 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 382 is WAITING)]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4a596fc1 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@70d28000 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4bd0d62f [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 384 is WAITING)]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@433f8efa [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3ccc5fa2 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@69aa2adb [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 386 is WAITING)]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4fa9533f [releaseThread=null]]
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by javassist.ClassPool (file:/C:/Users/kobus/AppData/Local/Temp/kettle-m2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int)
+WARNING: Please consider reporting this to the maintainers of javassist.ClassPool
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2f92b5a1 [releaseThread=null]]
+Oct 07, 2026 9:29:08 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@536905ed [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 388 is WAITING)]]
+Oct 07, 2026 9:29:09 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3cce6db1 [releaseThread=null]]
+Oct 07, 2026 9:29:09 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@447bf09d [releaseThread=null]]
+Oct 07, 2026 9:29:09 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6d3e720e [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2390 is WAITING)]]
+Oct 07, 2026 9:29:09 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4d390a0c [releaseThread=null]]
+Oct 07, 2026 9:29:10 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@63b15742 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2391 is WAITING)]]
+Oct 07, 2026 9:29:10 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7de752dd [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2417 is WAITING)]]
+Oct 07, 2026 9:29:12 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@797ec046 [releaseThread=null]]
+Oct 07, 2026 9:29:12 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@49ffcd07 [releaseThread=null]]
+Oct 07, 2026 9:29:12 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2a7648a9 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2519 is WAITING)]]
+Oct 07, 2026 9:29:12 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3ac3cae8 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@587e0acf [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2520 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1ad1a318 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2522 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@29c808c8 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@652132d1 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6d2d7a55 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2524 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@83ffa7b [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2525 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@41743ff4 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@626542d3 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2527 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6c8f2e4e [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3501c1de [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@1dde2d1 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2529 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3a6b8805 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@57fcc568 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@52b8633c [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2531 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@59b0d24d [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@16641839 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2c0c1730 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2533 is WAITING)]]
+Task: TaskSimpleTimestampFormatTest 0, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 1, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 5, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 2, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 6, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 7, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 3, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 4, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 8, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 10, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 9, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 11, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 12, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 13, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 14, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 15, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 16, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 17, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 18, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 19, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 20, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 21, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 22, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 23, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 25, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 24, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 26, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 27, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 28, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 29, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 30, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 31, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 32, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 33, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 34, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 35, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 36, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 37, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 38, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 39, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 40, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 41, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 42, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 44, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 45, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 47, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 48, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 49, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 50, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 51, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 52, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 53, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 54, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 55, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 63, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 62, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 61, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 43, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 60, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 59, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 64, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 65, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 66, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 68, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 69, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 67, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 70, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 72, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 74, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 73, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 77, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 78, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 76, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 58, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 75, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 80, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 81, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 82, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 83, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 85, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 84, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 86, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 87, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 88, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 89, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 93, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 92, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 94, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 91, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 95, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 96, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 98, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 99, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 100, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 101, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 103, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 102, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 104, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 105, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 106, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 107, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 108, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 109, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 110, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 111, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 112, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 113, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 115, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 117, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 118, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 119, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 120, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 121, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 122, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 123, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 124, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 125, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 126, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 127, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 128, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 79, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 129, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 56, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 57, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 114, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 97, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 90, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 116, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 46, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 130, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 131, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 132, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 71, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 136, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 133, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 135, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 141, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 137, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 142, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 138, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 139, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 140, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 134, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 144, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 143, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 146, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 145, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 147, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 149, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 148, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 151, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 150, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 153, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 152, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 154, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 155, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 156, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 157, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 159, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 160, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 161, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 158, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 162, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 163, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 164, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 165, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 166, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 167, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 172, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 171, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 169, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 170, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 168, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 174, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 175, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 173, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 176, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 180, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 181, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 179, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 177, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 178, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 182, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 183, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 184, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 185, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 186, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 189, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 187, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 188, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 192, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 191, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 190, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 193, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 195, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 196, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 197, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 199, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 198, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 194, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 201, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 200, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 202, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 203, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 204, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 205, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 206, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 207, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 208, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 209, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 211, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 210, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 212, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 214, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 215, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 213, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 216, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 217, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 218, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 219, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 220, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 221, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 222, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 223, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 224, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 225, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 226, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 227, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 228, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 230, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 229, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 231, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 232, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 233, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 234, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 235, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 236, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 237, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 238, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 239, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 240, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 241, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 242, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 243, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 244, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 245, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 246, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 247, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 248, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 249, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 250, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 251, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 252, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 253, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 254, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 255, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 256, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 257, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 258, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 259, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 260, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 261, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 262, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 263, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 264, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 265, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 267, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 266, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 268, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 269, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 270, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 271, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 273, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 272, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 274, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 275, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 278, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 276, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 279, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 277, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 280, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 281, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 283, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 282, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 285, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 284, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 286, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 287, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 288, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 289, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 290, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 291, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 292, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 293, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 294, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 295, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 296, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 297, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 298, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 299, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 300, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 301, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 302, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 303, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 304, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 305, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 306, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 307, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 309, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 311, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 310, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 312, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 313, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 314, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 308, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 315, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 317, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 316, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 318, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 319, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 320, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 321, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 322, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 323, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 325, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 324, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 326, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 327, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 329, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 328, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 330, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 331, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 332, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 333, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 334, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 335, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 336, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 337, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 338, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 339, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 340, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 341, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 342, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 343, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 344, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 345, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 346, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 347, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 349, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 348, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 350, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 351, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 352, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 353, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 354, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 355, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 356, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 357, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 358, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 359, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 360, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 361, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 362, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 363, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 364, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 365, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 366, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 367, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 368, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 369, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 370, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 371, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 372, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 373, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 375, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 374, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 376, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 377, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 378, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 379, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 380, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 381, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 382, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 383, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 384, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 385, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 386, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 387, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 388, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 389, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 391, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 390, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 392, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 393, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 394, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 395, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 396, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 397, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 398, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 399, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 400, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 401, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 402, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 403, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 404, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 405, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 406, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 407, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 408, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 409, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 410, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 411, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 412, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 413, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 414, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 416, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 415, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 418, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 417, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 419, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 421, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 420, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 423, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 422, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 424, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 426, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 425, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 427, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 428, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 429, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 430, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 431, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 432, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 433, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 434, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 435, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 436, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 438, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 439, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 437, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 440, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 449, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 448, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 447, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 446, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 445, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 444, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 443, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 442, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 441, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 452, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 450, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 451, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 454, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 453, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 455, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 456, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 458, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 457, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 459, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 460, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 461, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 462, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 463, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 464, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 465, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 466, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 467, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 469, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 468, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 470, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 473, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 475, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 472, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 474, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 471, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 476, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 477, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 478, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 479, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 480, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 482, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 483, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 481, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 485, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 484, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 486, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 487, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 488, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 489, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 490, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 491, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 492, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 494, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 495, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 496, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 498, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 499, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 497, Result: 2019-07-08 10:16:01.001
+Task: TaskSimpleTimestampFormatTest 493, Result: 2019-07-08 10:16:01.001
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@41c9df5c [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@37edefb2 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5552f9e0 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2545 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@39e1acd7 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@73987a07 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@30a3c1e1 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2547 is WAITING)]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@b24fff1 [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@21035eec [releaseThread=null]]
+Oct 07, 2026 9:29:13 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@ebe20fd [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2549 is WAITING)]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@53ba9105 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2550 is WAITING)]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@4f50d590 [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@212e3150 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2646 is WAITING)]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6d27716d [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@29f94b59 [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@6c1f6481 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2648 is WAITING)]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@25ebbb3e [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@770d867 [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@386ec4a6 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2650 is WAITING)]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@826eb85 [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@35ad04e3 [releaseThread=null]]
+Oct 07, 2026 9:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@a520a55 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2652 is WAITING)]]
+Oct 07, 2026 5:29:14 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3c9e4c38 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2653 is WAITING)]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@21940db3 [releaseThread=null]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@5f3030da [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2655 is WAITING)]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3e666559 [releaseThread=null]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@34518f0 [releaseThread=null]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2cf3b679 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2657 is WAITING)]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2bca913b [releaseThread=null]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@2749980a [releaseThread=null]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@3475f9dc [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2659 is WAITING)]]
+Oct 07, 2026 9:29:15 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@71ce1174 [releaseThread=null]]
+
+File [Mock for FileObject, hashCode: 1440731074] does not exists.
+
+
+Unable to check if file [Mock for FileObject, hashCode: 1880481861] exists.
+Unknown message with code "dummy".
+
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@27cc3b4e [releaseThread=null]]
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@7843aae6 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2668 is WAITING)]]
+[Fatal Error] :2:10: DOCTYPE is disallowed when the feature "http://apache.org/xml/features/disallow-doctype-decl" set to true.
+[Fatal Error] :2:10: DOCTYPE is disallowed when the feature "http://apache.org/xml/features/disallow-doctype-decl" set to true.
+[Fatal Error] :2:10: DOCTYPE is disallowed when the feature "http://apache.org/xml/features/disallow-doctype-decl" set to true.
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@36f70ce4 [releaseThread=null]]
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@b027738 [releaseThread=null]]
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@14278bb5 [releaseThread=Thread[org.apache.commons.vfs2.cache.SoftRefFilesCache$ReleaseThread,5,main](ID 2670 is WAITING)]]
+Oct 07, 2026 9:29:22 AM org.pentaho.di.core.vfs.ConcurrentFileSystemManager close
+WARNING: DefaultFilesystemManager.close: not all components are closed: [org.apache.commons.vfs2.cache.WeakRefFilesCache@28fed51 [releaseThread=null]]

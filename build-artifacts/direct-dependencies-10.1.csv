@@ -1,0 +1,302 @@
+Module,GroupId,ArtifactId,Version,Type,Classifier,Scope,Status
+core,pentaho,metastore,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+core,org.pentaho.di.plugins,pentaho-metastore-locator-api,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+core,org.slf4j,slf4j-api,1.7.12,jar,,compile,cached exact artifact
+core,commons-beanutils,commons-beanutils,1.9.4,jar,,compile,cached exact artifact
+core,commons-codec,commons-codec,1.15,jar,,compile,cached exact artifact
+core,commons-logging,commons-logging,1.2,jar,,compile,cached exact artifact
+core,com.google.guava,guava,32.1.2-jre,jar,,compile,cached exact artifact
+core,org.owasp.encoder,encoder,1.2,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-bridge,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-css,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-dom,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-gvt,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-svg-dom,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-transcoder,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-codec,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-util,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-ext,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-xml,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-anim,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-parser,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-script,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-awt-util,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-constants,1.17,jar,,compile,cached exact artifact
+core,org.apache.xmlgraphics,batik-i18n,1.17,jar,,compile,cached exact artifact
+core,xml-apis,xml-apis-ext,1.3.04,jar,,compile,cached exact artifact
+core,commons-collections,commons-collections,3.2.2,jar,,compile,cached exact artifact
+core,commons-lang,commons-lang,2.6,jar,,compile,cached exact artifact
+core,org.apache.httpcomponents,httpclient,4.5.14,jar,,compile,cached exact artifact
+core,org.apache.httpcomponents,httpcore,4.4.11,jar,,compile,cached exact artifact
+core,org.apache.commons,commons-vfs2,2.8.0,jar,,compile,cached exact artifact
+core,commons-io,commons-io,2.11.0,jar,,compile,cached exact artifact
+core,org.apache.commons,commons-dbcp2,2.9.0,jar,,compile,cached exact artifact
+core,org.apache.commons,commons-pool2,2.11.1,jar,,compile,cached exact artifact
+core,org.apache.commons,commons-compress,1.24.0,jar,,compile,cached exact artifact
+core,org.dom4j,dom4j,2.1.4,jar,,compile,cached exact artifact
+core,org.eclipse.jetty,jetty-util,9.4.51.v20230217,jar,,compile,cached exact artifact
+core,jug-lgpl,jug-lgpl,2.0.0,jar,,compile,cached exact artifact
+core,com.github.mwiede,jsch,0.2.9,jar,,compile,cached exact artifact
+core,ognl,ognl,2.6.9,jar,,compile,cached exact artifact
+core,net.sf.scannotation,scannotation,1.0.2,jar,,compile,cached exact artifact
+core,com.wcohen,com.wcohen.secondstring,0.1,jar,,compile,cached exact artifact
+core,org.javassist,javassist,3.20.0-GA,jar,,compile,cached exact artifact
+core,org.samba.jcifs,jcifs,1.3.3,jar,,compile,cached exact artifact
+core,org.codehaus.woodstox,wstx-asl,3.2.4,jar,,compile,cached exact artifact
+core,pentaho,simple-jndi,1.0.13,jar,,compile,cached exact artifact
+core,commons-net,commons-net,3.9.0,jar,,compile,cached exact artifact
+core,jakarta.xml.bind,jakarta.xml.bind-api,2.3.3,jar,,compile,cached exact artifact
+core,org.springframework,spring-expression,5.3.34,jar,,compile,cached exact artifact
+core,joda-time,joda-time,2.10.2,jar,,runtime,cached exact artifact
+core,org.apache.tomcat,tomcat-jdbc,8.5.27,jar,,compile,cached exact artifact
+core,org.pentaho,pentaho-encryption-support,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+engine,pentaho-kettle,kettle-core,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,org.pentaho,pdi-engine-api,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,org.pentaho,pentaho-registry,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,pentaho,metastore,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,pentaho,mondrian,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,pentaho,pentaho-platform-api,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,org.pentaho.reporting.library,libformula,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+engine,org.dom4j,dom4j,2.1.4,jar,,compile,cached exact artifact
+engine,commons-codec,commons-codec,1.15,jar,,compile,cached exact artifact
+engine,commons-beanutils,commons-beanutils,1.9.4,jar,,compile,cached exact artifact
+engine,commons-logging,commons-logging,1.2,jar,,compile,cached exact artifact
+engine,com.google.guava,guava,32.1.2-jre,jar,,compile,cached exact artifact
+engine,org.owasp.encoder,encoder,1.2,jar,,compile,cached exact artifact
+engine,org.mozilla,rhino,1.7.13,jar,,compile,cached exact artifact
+engine,org.antlr,antlr-complete,3.5.2,jar,,compile,cached exact artifact
+engine,commons-validator,commons-validator,1.3.1,jar,,compile,cached exact artifact
+engine,com.enterprisedt,edtftpj,2.1.0,jar,,compile,cached exact artifact
+engine,com.googlecode.jsendnsca,jsendnsca,2.0.1,jar,,compile,cached exact artifact
+engine,feed4j,feed4j,1.0,jar,,compile,cached exact artifact
+engine,ftp4che,ftp4che,0.7.1,jar,,compile,cached exact artifact
+engine,com.rometools,rome-modules,1.18.0,jar,,compile,cached exact artifact
+engine,com.rometools,rome-utils,1.18.0,jar,,compile,cached exact artifact
+engine,infobright,infobright-core,3.4,jar,,compile,cached exact artifact
+engine,org.ini4j,ini4j,0.5.4,jar,,compile,cached exact artifact
+engine,org.codehaus.janino,commons-compiler,3.1.10,jar,,compile,cached exact artifact
+engine,org.codehaus.janino,janino,3.1.10,jar,,compile,cached exact artifact
+engine,javadbf,javadbf,20081125,jar,,compile,cached exact artifact
+engine,jfree,jcommon,1.0.16,jar,,compile,cached exact artifact
+engine,com.googlecode.json-simple,json-simple,1.1,jar,,compile,cached exact artifact
+engine,jsonpath,jsonpath,1.0,jar,,compile,cached exact artifact
+engine,com.sun.jersey.contribs,jersey-apache-client4,1.19.1,jar,,compile,cached exact artifact
+engine,com.sun.jersey,jersey-bundle,1.19.1,jar,,compile,cached exact artifact
+engine,com.sun.jersey,jersey-client,1.19.1,jar,,compile,cached exact artifact
+engine,com.sun.jersey,jersey-core,1.19.1,jar,,compile,cached exact artifact
+engine,jexcelapi,jxl,2.6.12,jar,,compile,cached exact artifact
+engine,ldapjdk,ldapjdk,20000524,jar,,compile,cached exact artifact
+engine,monetdb,monetdb-jdbc,2.8,jar,,compile,cached exact artifact
+engine,org.odftoolkit,odfdom-java,0.8.6,jar,,compile,cached exact artifact
+engine,org.apache.commons,commons-collections4,4.4,jar,,compile,cached exact artifact
+engine,org.apache.commons,commons-math3,3.6.1,jar,,compile,cached exact artifact
+engine,com.github.virtuald,curvesapi,1.06,jar,,compile,cached exact artifact
+engine,org.apache.commons,commons-compress,1.24.0,jar,,compile,cached exact artifact
+engine,org.apache.xmlbeans,xmlbeans,3.1.0,jar,,compile,cached exact artifact
+engine,org.postgresql,postgresql,42.5.6,jar,,compile,cached exact artifact
+engine,com.rometools,rome,1.18.0,jar,,compile,cached exact artifact
+engine,org.eobjects.sassyreader,SassyReader,0.5,jar,,compile,cached exact artifact
+engine,net.sf.saxon,saxon,9.1.0.8,jar,,compile,cached exact artifact
+engine,net.sf.saxon,saxon-dom,9.1.0.8,jar,,compile,cached exact artifact
+engine,org.yaml,snakeyaml,1.33,jar,,compile,cached exact artifact
+engine,org.snmp4j,snmp4j,1.9.3d,jar,,compile,cached exact artifact
+engine,org.syslog4j,syslog4j,0.9.46,jar,,compile,cached exact artifact
+engine,trilead-ssh2,trilead-ssh2,build213,jar,,compile,cached exact artifact
+engine,javax.xml,jaxrpc-api,1.1,jar,,compile,cached exact artifact
+engine,org.olap4j,olap4j,1.2.0,jar,,compile,cached exact artifact
+engine,org.olap4j,olap4j-xmla,1.2.0,jar,,compile,cached exact artifact
+engine,wsdl4j,wsdl4j,1.6.2,jar,,compile,cached exact artifact
+engine,wsdl4j,wsdl4j-qname,1.6.1,jar,,compile,cached exact artifact
+engine,org.hibernate.javax.persistence,hibernate-jpa-2.1-api,1.0.2.Final,jar,,compile,missing external artifact
+engine,com.fasterxml.jackson.core,jackson-core,2.14.2,jar,,compile,cached exact artifact
+engine,com.fasterxml.jackson.core,jackson-annotations,2.14.2,jar,,compile,cached exact artifact
+engine,com.fasterxml.jackson.core,jackson-databind,2.14.2,jar,,compile,cached exact artifact
+engine,org.hibernate,hibernate-core,5.4.24.Final,jar,,compile,cached exact artifact
+engine,org.hibernate,hibernate-c3p0,5.4.24.Final,jar,,compile,cached exact artifact
+engine,org.hibernate.javax.persistence,hibernate-jpa-2.1-api,1.0.0.Final,jar,,compile,cached exact artifact
+engine,org.hibernate,hibernate-ehcache,5.4.24.Final,jar,,compile,cached exact artifact
+engine,org.jboss.logging,jboss-logging,3.4.3.Final,jar,,compile,cached exact artifact
+engine,net.bytebuddy,byte-buddy,1.12.16,jar,,compile,cached exact artifact
+engine,cglib,cglib-nodep,2.2,jar,,compile,cached exact artifact
+engine,com.sun.mail,javax.mail,1.6.1,jar,,compile,cached exact artifact
+engine,org.mnode.mstor,mstor,0.9.13,jar,,compile,cached exact artifact
+engine,org.xerial.snappy,snappy-java,1.1.10.4,jar,,compile,cached exact artifact
+engine,commons-cli,commons-cli,1.2,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-jaas,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-server,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-security,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-servlet,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-util,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-xml,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,org.eclipse.jetty,jetty-webapp,9.4.51.v20230217,jar,,compile,cached exact artifact
+engine,com.googlecode.log4jdbc,log4jdbc,1.2,jar,,compile,cached exact artifact
+engine,javax.servlet,javax.servlet-api,3.1.0,jar,,compile,cached exact artifact
+engine,org.codehaus.woodstox,wstx-asl,3.2.4,jar,,compile,cached exact artifact
+engine,org.apache.httpcomponents,httpclient,4.5.14,jar,,compile,cached exact artifact
+engine,com.cronutils,cron-utils,9.1.6,jar,,compile,cached exact artifact
+engine,org.apache.httpcomponents,httpcore,4.4.11,jar,,compile,cached exact artifact
+engine,jakarta.xml.bind,jakarta.xml.bind-api,2.3.3,jar,,compile,cached exact artifact
+engine,com.sun.xml.bind,jaxb-impl,2.3.3,jar,,runtime,cached exact artifact
+engine,io.reactivex.rxjava2,rxjava,2.2.3,jar,,compile,cached exact artifact
+ui,pentaho-kettle,kettle-core,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+ui,pentaho-kettle,kettle-engine,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+ui,pentaho-kettle,kettle-dbdialog,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+ui,pentaho,pentaho-vfs-browser,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+ui,org.pentaho,commons-xul-core,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+ui,org.pentaho,commons-xul-swt,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+ui,org.pentaho,commons-xul-swing,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+ui,pentaho,pentaho-capability-manager,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+ui,org.eclipse.swt,org.eclipse.swt.gtk.linux.x86_64,4.6,jar,,compile,missing external artifact
+ui,org.eclipse.equinox,common,3.3.0-v20070426,jar,,compile,missing external artifact
+ui,org.eclipse,jface,3.3.0-I20070606-0010,jar,,compile,missing external artifact
+ui,org.eclipse.core,commands,3.3.0-I20070605-0010,jar,,compile,missing external artifact
+ui,jfree,jfreechart,1.0.13,jar,,compile,missing external artifact
+ui,org.mozilla,rhino,1.7.13,jar,,compile,cached exact artifact
+ui,org.apache.httpcomponents,httpclient,4.5.14,jar,,compile,cached exact artifact
+assemblies/static,pentaho-kettle,kettle-ui-swt,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+assemblies/lib,org.pentaho,pentaho-metadata,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,org.apache.xmlgraphics,xmlgraphics-commons,2.6,jar,,compile,missing external artifact
+assemblies/lib,pentaho-kettle,kettle-core,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,pentaho-kettle,kettle-engine,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,org.jdom,jdom,1.1.3,jar,,compile,missing external artifact
+assemblies/lib,pentaho-kettle,kettle-dbdialog,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+assemblies/lib,pentaho-kettle,kettle-ui-swt,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+assemblies/lib,pentaho,pentaho-mongo-utils,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,org.mongodb,mongo-java-driver,3.12.10,jar,,compile,missing external artifact
+assemblies/lib,org.eclipse.platform,org.eclipse.jface,3.22.0,jar,,compile,missing external artifact
+assemblies/lib,org.eclipse.platform,org.eclipse.core.commands,3.9.800,jar,,compile,missing external artifact
+assemblies/lib,org.eclipse.platform,org.eclipse.equinox.common,3.14.0,jar,,compile,missing external artifact
+assemblies/lib,io.reactivex.rxjava2,rxjava,2.2.3,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.kafka,kafka-clients,3.4.0,jar,,compile,missing external artifact
+assemblies/lib,org.eclipse.paho,org.eclipse.paho.client.mqttv3,1.2.2,jar,,compile,missing external artifact
+assemblies/lib,org.glassfish.tyrus.bundles,tyrus-standalone-client,1.13.1,jar,,compile,missing external artifact
+assemblies/lib,org.pentaho,json,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,org.pentaho,commons-database-model,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,org.pentaho,pentaho-registry,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,pentaho,pentaho-platform-repository,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,pentaho,pentaho-platform-extensions,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,pentaho,pentaho-metaverse-api,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,pentaho,pentaho-platform-api,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,pentaho,pentaho-platform-core,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,org.pentaho.di.plugins,pentaho-metastore-locator-api,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,org.pentaho.di.plugins,pentaho-kettle-repository-locator-api,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+assemblies/lib,org.pentaho.di.plugins,file-open-save-new-api,10.1.0.0-SNAPSHOT,jar,,compile,source in reactor; artifact not built
+assemblies/lib,org.pentaho.reporting.library,libformula,10.1.0.0-SNAPSHOT,jar,,compile,cached exact artifact
+assemblies/lib,jakarta.annotation,jakarta.annotation-api,1.3.5,jar,,compile,missing external artifact
+assemblies/lib,com.h2database,h2,2.2.224,jar,,compile,cached exact artifact
+assemblies/lib,jaxen,jaxen,1.1.6,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.derby,derby,10.14.2.0,jar,,compile,missing external artifact
+assemblies/lib,org.apache.derby,derbyclient,10.2.1.6,jar,,compile,missing external artifact
+assemblies/lib,org.hsqldb,hsqldb,2.3.2,jar,,compile,missing external artifact
+assemblies/lib,org.firebirdsql.jdbc,jaybird,2.1.6,jar,,compile,missing external artifact
+assemblies/lib,net.sf.jt400,jt400,6.1,jar,,compile,missing external artifact
+assemblies/lib,luciddb,LucidDbClient-minimal,0.9.4,jar,,compile,missing external artifact
+assemblies/lib,com.sap,sapdbc,7.4.4,jar,,compile,missing external artifact
+assemblies/lib,org.xerial,sqlite-jdbc,3.41.2.2,jar,,compile,missing external artifact
+assemblies/lib,javax.servlet,javax.servlet-api,3.1.0,jar,,compile,cached exact artifact
+assemblies/lib,net.snowflake,snowflake-jdbc,3.14.1,jar,,compile,missing external artifact
+assemblies/lib,org.springframework,spring-core,5.3.34,jar,,compile,cached exact artifact
+assemblies/lib,org.springframework,spring-aop,5.3.34,jar,,compile,missing external artifact
+assemblies/lib,org.springframework,spring-web,5.3.34,jar,,compile,missing external artifact
+assemblies/lib,org.springframework,spring-beans,5.3.34,jar,,compile,cached exact artifact
+assemblies/lib,org.springframework,spring-context,5.3.34,jar,,compile,missing external artifact
+assemblies/lib,org.springframework,spring-context-support,5.3.34,jar,,compile,missing external artifact
+assemblies/lib,org.springframework.security,spring-security-core,5.8.7,jar,,compile,cached exact artifact
+assemblies/lib,org.springframework.security,spring-security-web,5.8.7,jar,,compile,missing external artifact
+assemblies/lib,com.fasterxml.jackson.jaxrs,jackson-jaxrs-json-provider,2.14.2,jar,,compile,missing external artifact
+assemblies/lib,org.slf4j,slf4j-api,1.7.12,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.logging.log4j,log4j-slf4j-impl,2.17.1,jar,,compile,missing external artifact
+assemblies/lib,org.apache.logging.log4j,log4j-api,2.17.1,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.logging.log4j,log4j-core,2.17.1,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.logging.log4j,log4j-1.2-api,2.17.1,jar,,compile,cached exact artifact
+assemblies/lib,org.apache.logging.log4j,log4j-jcl,2.17.1,jar,,compile,missing external artifact
+assemblies/lib,org.glassfish.metro,webservices-api,2.3.1,jar,,compile,missing external artifact
+assemblies/lib,org.glassfish.metro,webservices-rt,2.3.1,jar,,compile,missing external artifact
+assemblies/lib,asm,asm,3.2,jar,,compile,missing external artifact
+assemblies/lib,com.tinkerpop.blueprints,blueprints-core,2.6.0,jar,,compile,missing external artifact
+assemblies/lib,commons-configuration,commons-configuration,1.9,jar,,compile,missing external artifact
+assemblies/lib,net.sf.flexjson,flexjson,2.1,jar,,compile,missing external artifact
+assemblies/lib,com.sun.jersey.contribs,jersey-multipart,1.19.1,jar,,compile,missing external artifact
+assemblies/lib,org.jvnet.mimepull,mimepull,1.9.3,jar,,compile,missing external artifact
+assemblies/lib,javax.ws.rs,jsr311-api,1.1.1,jar,,compile,missing external artifact
+assemblies/lib,org.codehaus.enunciate,enunciate-jersey-rt,1.27,jar,,compile,missing external artifact
+assemblies/lib,org.codehaus.enunciate,enunciate-core-annotations,1.27,jar,,compile,missing external artifact
+assemblies/lib,com.databricks,spark-avro_2.11,4.0.0,jar,,compile,missing external artifact
+assemblies/lib,com.google.http-client,google-http-client,1.42.3,jar,,compile,missing external artifact
+assemblies/lib,org.apache.commons,commons-lang3,3.12.0,jar,,compile,cached exact artifact
+assemblies/lib,pentaho,pentaho-big-data-legacy-core,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/lib,org.osgi,org.osgi.core,6.0.0,jar,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,pdi-core-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-version-checker,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-s3csvinput-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,get-file-sftp-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,ftps-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-shapefilereader-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,mail-job-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-drools5-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-gpload-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-hl7-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pdi-google-analytics-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pdi-salesforce-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,monet-db-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,mail-validator-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,ftp-delete-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,yaml-input-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pentaho-reporting-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,ms-access-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,oracle-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,terafast-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,rss-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,postgresql-db-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,edi2xml-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,random-cc-number-generator-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,credit-card-validator-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,sftpput-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,put-file-sftp-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,mondrianinput-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,infobright-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,excel-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,ldap-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,ivw-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pentaho-googledrive-vfs-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-sap-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho,pentaho-cassandra-plugin-package,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,pdi-teradata-tpt-plugin-package,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,pentaho,pdi-platform-utils-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,com.pentaho.di.plugins,mongodb-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho,vertica-bulkloader-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,pdi-pur-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pdi-engine-configuration-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pentaho-metastore-locator-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-repository-locator-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,file-open-save-new-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-repository-locator-spoon-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,mysql-bulk-loader-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,repositories-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,connections-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,pentaho,pentaho-s3-vfs-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,pentaho-streaming-jms-plugin-zip,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pentaho-streaming-mqtt-plugin-zip,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,pdi-avro-format-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,meta-inject-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,pentaho,pentaho-streaming-kafka-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,pdi-xml-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,pentaho,metaverse-plugin,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/plugins,org.pentaho.di.plugins,kettle-json-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,kettle-rest-plugin,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,get-repository-names-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,mail-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,connected-to-repository-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,export-repository-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,email-messages-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,put-a-file-with-ftp-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,get-file-with-ftp-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/plugins,org.pentaho.di.plugins,msg-box-info-plugins,10.1.0.0-SNAPSHOT,zip,,compile,source in reactor; artifact not built
+assemblies/client,pentaho,pdi-dataservice-driver-bundle,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/client,pentaho,pentaho-application-launcher,10.1.0.0-SNAPSHOT,jar,,compile,missing external artifact
+assemblies/client,pentaho,oss-licenses,10.1.0.0-SNAPSHOT,zip,,compile,missing external artifact
+assemblies/client,org.eclipse.platform,org.eclipse.swt.gtk.linux.x86,3.108.0,jar,,compile,missing external artifact
+assemblies/client,org.eclipse.platform,org.eclipse.swt.gtk.linux.x86_64,3.108.0,jar,,compile,missing external artifact
+assemblies/client,org.eclipse.platform,org.eclipse.swt.win32.win32.x86_64,3.122.0,jar,,compile,missing external artifact
+assemblies/client,org.eclipse.platform,org.eclipse.swt.cocoa.macosx.x86_64,3.115.100,jar,,compile,missing external artifact
+assemblies/client,org.eclipse.platform,org.eclipse.swt.cocoa.macosx.aarch64,3.122.0,jar,,compile,missing external artifact

@@ -45,10 +45,6 @@
     </dependency>
     <dependency>
       <groupId>pentaho</groupId>
-      <artifactId>pentaho-platform-extensions</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>pentaho</groupId>
       <artifactId>pentaho-i18n-bundle</artifactId>
     </dependency>
     <dependency>

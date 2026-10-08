@@ -26,6 +26,8 @@
     <pentaho-registry.version>10.1.0.0-SNAPSHOT</pentaho-registry.version>
     <pentaho-metaverse.version>10.1.0.0-SNAPSHOT</pentaho-metaverse.version>
     <platform.version>10.1.0.0-SNAPSHOT</platform.version>
+    <platform.repository.version>${platform.version}</platform.repository.version>
+    <platform.extensions.version>${platform.version}</platform.extensions.version>
     <pentaho-reporting.version>10.1.0.0-SNAPSHOT</pentaho-reporting.version>
     <pdi-osgi-bridge.version>10.1.0.0-SNAPSHOT</pdi-osgi-bridge.version>
     <pentaho-hadoop-shims.version>10.1.0.0-SNAPSHOT</pentaho-hadoop-shims.version>
@@ -229,7 +231,7 @@
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>pentaho-platform-repository</artifactId>
-      <version>${platform.version}</version>
+      <version>${platform.repository.version}</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -240,7 +242,7 @@
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>pentaho-platform-extensions</artifactId>
-      <version>${platform.version}</version>
+      <version>${platform.extensions.version}</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
